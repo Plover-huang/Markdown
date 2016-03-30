@@ -1,3 +1,6 @@
+[参考来源](https://guides.github.com/features/mastering-markdown/)
+[pdf下载](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
 ## 主要内容 ##
 > #### Markdown是_什么_？ ####
 > #### _谁_发明了这么个东西？ ####
